@@ -1,0 +1,29 @@
+# the name of this book
+title: Example Site
+# the author of this book
+author: cloudy-sfu
+# this book is written in which year
+created_year: 2025
+# articles list
+articles:
+  # each bullet point represents an article
+  - name: 案例 1
+    filepath: lab_1.html
+  - name: 案例 2
+    filepath: lab_2.html
+  - name: 案例 3
+    filepath: lab_3.html
+  - name: 案例 4
+    filepath: lab_4.html
+  - name: 案例 5
+    filepath: lab_5.html
+  - name: 案例 6
+    filepath: lab_6.html
+  - name: 案例 7
+    filepath: lab_7.html
+  - name: 案例 8
+    filepath: lab_8.html
+  - name: 案例 9
+    filepath: lab_9.html
+  - name: 案例 10
+    filepath: lab_10.html
